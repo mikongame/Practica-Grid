@@ -50,7 +50,7 @@ main {
   color: var(--blue-color);
   border: var(--border);
   text-transform: uppercase;
-  place-items: center;
+  align-content: center;
   text-align: center;
   padding: var(--spacing);
 }
